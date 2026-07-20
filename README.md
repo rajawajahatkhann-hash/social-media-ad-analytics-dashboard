@@ -43,5 +43,3 @@ Social_Media_Marketing_Dashboard.xlsx — open in Excel to interact with slicers
 
 Screenshots
 <img width="533" height="317" alt="dashboard (screenshot png)" src="https://github.com/user-attachments/assets/73da8f58-6836-41f4-aa64-79e6b08b27c2" />
-
-(Add dashboard screenshots here once uploaded — ![dashboard](screenshot.png))
